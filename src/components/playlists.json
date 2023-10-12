@@ -1,0 +1,44 @@
+[
+  {
+    "title": "memes",
+    "description": "if elton john covered 'sandstorm', you'd find it here. songs that transcend their musicality, intentionally overplayed anthems. silly or serious!",
+    "url": "https://open.spotify.com/playlist/3cK4Vk11Zwe9oug3fgMIDj",
+    "image": "memes.png"
+  },
+  {
+    "title": "ding ding, dinnertime",
+    "description": "easy listening, energizing, upbeat. a soundtrack to today's stories and tonight's schemes.",
+    "url": "https://open.spotify.com/playlist/7HJLLqijDLE0okFcMe6yqO",
+    "image": "dinnertime.png"
+  },
+  {
+    "title": "midday lounge",
+    "description": "sun beaming, breeze blowing, hobbits sprawled across sagging inflatable couches. slow, light, groovy tunes ideal for morning chores, coffee chats and cat naps.",
+    "url": "https://open.spotify.com/playlist/2vQHA3A5FwWinvodehQZus",
+    "image": "lounge.png"
+  },
+  {
+    "title": "pre-event hype",
+    "description": "energetic songs that invoke a sense of mystery and intrigue. rhythmic, luring, anticipatory. a sonic hypnosis that tugs on passers-by and forebodes revelation.",
+    "url": "https://open.spotify.com/playlist/58ToN8w4nCf8MZszV6VjAW",
+    "image": "hype.png"
+  },
+  {
+    "title": "soon, sunrise",
+    "description": "wow sick night we just had, let's not stop. light-emitting diodes around a light-emitting campfire. chill, lunar, downtempo beats.",
+    "url": "https://open.spotify.com/playlist/3v6rcmGpKxvwaZ37PscKdT",
+    "image": "sunrise.png"
+  },
+  {
+    "title": "highly danceable",
+    "description": "nnn-tss-nnn-tss-nnn-tss-nnn-tss. sounds you can't help but move to. ideal for the pregame or the main event. disco, house, techno, hip-hop, trap, and bass welcome.",
+    "url": "https://open.spotify.com/playlist/2J6fkfjvp1gIRwPD4PpaVQ",
+    "image": "danceable.png"
+  },
+  {
+    "title": "kiwi hole",
+    "description": "dark, deep, sultry beats for hair-stroking and skin-caressing. a dance playlist for your fingers, a soundtrack to slow, attentive movement.",
+    "url": "https://open.spotify.com/playlist/3iKwazHc72JMaXtOzPau0f",
+    "image": "kiwi.png"
+  }
+]
